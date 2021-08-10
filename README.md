@@ -1,3 +1,3 @@
 # <<     mineria de datos     >>
 
-## +   Fase 1   +
+## <   Fase 1   >
