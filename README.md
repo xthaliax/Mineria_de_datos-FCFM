@@ -1,4 +1,4 @@
-# <<     mineria de datos     >>
+# <<     Mineria de datos     >>
 
 ## <   Fase 1   >
 
