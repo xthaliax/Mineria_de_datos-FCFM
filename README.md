@@ -1,1 +1,1 @@
-# miner-a
+# mineria de datos
