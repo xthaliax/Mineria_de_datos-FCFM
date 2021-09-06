@@ -10,6 +10,6 @@
 
 ## <   Fase 2   >
 
--Tarea 6 : [Presentación: Reglas de asiciación](https://github.com/Ruy8/RuyAramis_Mineria/blob/main/Presentaci%C3%B3n_ReglasDeAsociaci%C3%B3n_Equipo3.pdf)
+- Tarea 6 : [Presentación-Reglas de asociación](https://github.com/Ruy8/RuyAramis_Mineria/blob/main/Presentaci%C3%B3n_ReglasDeAsociaci%C3%B3n_Equipo3.pdf)
 
 
