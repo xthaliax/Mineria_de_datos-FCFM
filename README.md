@@ -8,4 +8,8 @@
 - Tarea 4 : [Limpieza de datos](https://github.com/claudiogaytan28/MineriaDeDatos/blob/main/Ej_Limpieza_Equipo3.ipynb)
 - Tarea 5 : [PIA: primer avance](https://github.com/xthaliax/mineriaa/blob/main/Avance1_PIA_Equipo3.ipynb)
 
+## <   Fase 2   >
+
+-Tarea 6 : [Presentación: Reglas de asiciación](https://github.com/Ruy8/RuyAramis_Mineria/blob/main/Presentaci%C3%B3n_ReglasDeAsociaci%C3%B3n_Equipo3.pdf)
+
 
