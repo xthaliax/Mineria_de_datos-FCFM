@@ -16,4 +16,7 @@
 - Tarea 8 : [PIA -> segundo avance (modificado)](https://github.com/claudiogaytan28/MineriaDeDatos/blob/main/Entrega2_Equipo3_Mod.ipynb)
 - Tarea 9 : [Ejercicio técnicas](https://github.com/Ruy8/RuyAramis_Mineria/blob/main/Equipo3_T%C3%A9cnicas.ipynb)
 
+## <  Fase 3 >
+-Notebook final
+
 
