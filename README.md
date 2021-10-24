@@ -17,6 +17,7 @@
 - Tarea 9 : [Ejercicio técnicas](https://github.com/Ruy8/RuyAramis_Mineria/blob/main/Equipo3_T%C3%A9cnicas.ipynb)
 
 ## <  Fase 3 >
--Notebook final
+- Notebook final (https://github.com/xthaliax/mineriaa/blob/main/Notebook%20-%20equipo%203.ipynb)
+- Póster (https://github.com/xthaliax/mineriaa/blob/main/P%C3%B3ster%20-%20Equipo%203.pdf)
 
 
